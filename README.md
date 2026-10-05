@@ -25,7 +25,7 @@ Alongside application support, I have a background in front-end development and 
 - JavaScript
 - Git / GitHub
 
-## 📱 Current project — Shuffle Mobile
+## 📱 Current project - Shuffle Mobile
 
 I'm currently contributing to **Shuffle Mobile**, a collaborative mobile application for discovering and organising events.
 
